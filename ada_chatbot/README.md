@@ -12,3 +12,8 @@ Written in **Ada** using **AWS (Ada Web Server)**
 1. **Install GNAT & AWS (Ada Web Server)**
    ```bash
    sudo apt install gnat aws
+Contributing
+Feel free to fork this repository and submit pull requests. Contributions are welcome!
+
+License
+This project is licensed under the MIT License.
