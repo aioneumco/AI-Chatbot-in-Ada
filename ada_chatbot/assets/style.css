@@ -1,0 +1,32 @@
+/* Basic Chat UI Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#chat-box {
+    width: 60%;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: auto;
+    margin: auto;
+    background-color: #f9f9f9;
+}
+
+#user-input {
+    width: 60%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
